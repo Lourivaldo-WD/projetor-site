@@ -1,9 +1,8 @@
 * { font-family: 'Arial', sans-serif;
-    line-height: 1.6;
+    line-height: 1.5;
     color: #000000;
-    max-width: 300px;
-    margin: 0 auto;
-    padding: 20px;
-    background: linear-gradient(50deg, #adaeb6 0%, #07032e18 100%);
-    min-height: 40vh;
+    max-width: 600px;
+    margin: auto;
+    background: linear-gradient(50deg, #b6b7c4 0%, #c4c4c518 0%);
+    min-height: 3vh;
 }
